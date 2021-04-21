@@ -1,2 +1,3 @@
 # go-hello
-golang study note by https://b23.tv/hIUZly
+Golang study note by https://b23.tv/hIUZly
+
